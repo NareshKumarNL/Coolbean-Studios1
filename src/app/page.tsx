@@ -95,8 +95,8 @@ export default function HomePage() {
               <br />
               Dance &amp; Chess
               <br />
-              <span className="text-gold italic">Come Alive.</span>
-            </h1>
+              <span className="text-gold italic">Come Alive. </span>
+            </h1> 
 
             <p className="font-body text-base md:text-lg text-charcoal-light leading-relaxed mt-8 max-w-xl animate-fade-up-delay-2">
               We nurture young talent with expert guidance, a warm community, and a deep love for
