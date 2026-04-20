@@ -35,7 +35,7 @@ export interface AdminUser {
 // ─── Seeded admin credentials ─────────────────────────────────────────────────
 // In production: load from DB / env-secured config. Never hardcode in source.
 export const ADMIN_USERS: AdminUser[] = [
-  { email: "admin@sargamarts.in", password: "Admin@123", name: "Sargam Admin" },
+  { email: "admin@coolbean.in", password: "Admin@123", name: "Sargam Admin" },
 ];
 
 // ─── Student request store ────────────────────────────────────────────────────
