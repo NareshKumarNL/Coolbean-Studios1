@@ -11,7 +11,7 @@ const categories = [
   {
     name: "Music",
     icon: "♪",
-    image: "/Images/music.avif",
+    image: "/images/music.avif",
     description:
       "From classical Carnatic to contemporary keyboard, our music programmes guide beginners and advanced learners alike.",
     courses: ["Keyboard & Piano", "Flute", "Vocal Training"],
@@ -22,7 +22,7 @@ const categories = [
   {
     name: "Dance",
     icon: "◉",
-    image: "/Images/dance.avif",
+    image: "/images/dance.avif",
     description:
       "Immerse yourself in the grace of Bharatanatyam or the energy of Zumba. Dance is expression, and we help you find yours.",
     courses: ["Bharatanatyam", "Zumba", "Contemporary"],
@@ -33,7 +33,7 @@ const categories = [
   {
     name: "Chess",
     icon: "♟",
-    image: "/Images/chess.jpg",
+    image: "/images/chess.jpg",
     description:
       "Sharpen your mind with strategic chess training. Classes for children and adults, beginners through tournament-level.",
     courses: ["Beginner Chess", "Tournament Prep", "Junior Grandmaster"],
@@ -119,7 +119,7 @@ export default function HomePage() {
           {/* Logo — right side */}
           <div className="absolute top-16 right-0 hidden md:flex items-center justify-end pr-4">
             <img
-              src="/Images/logo.jpeg"
+              src="/images/logo.jpeg"
               alt="Coolbean Studios Logo"
               className="w-96 h-96 object-contain"
             />
