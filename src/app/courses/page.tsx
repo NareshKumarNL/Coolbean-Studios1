@@ -108,7 +108,7 @@ const categories: Category[] = [
     color: "text-charcoal-mid",
     accent: "border-white/40 bg-white/75",
     iconBg: "bg-rose-light text-rose",
-    sectionBg: "/images/courses/chess-beginning.jpg",
+    sectionBg: "/images/courses/chess_beginning.jpg",
     courses: [
       {
         name: "Beginner Chess",
